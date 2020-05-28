@@ -7,3 +7,6 @@ texto final del archivo 2 eliminado
 =======
 borrado
 >>>>>>> modificacionArchivos
+
+
+texto para seguir en la rama master
