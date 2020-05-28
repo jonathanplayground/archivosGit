@@ -9,3 +9,5 @@ texto agregado al parrafo
 =======
 borrado
 >>>>>>> modificacionArchivos
+
+ahora ingresamos texto en otra rama
