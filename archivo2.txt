@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 modificado
 
 texto agregado al segundo archivo
 
 texto final del archivo 2 eliminado
+=======
+borrado
+>>>>>>> modificacionArchivos

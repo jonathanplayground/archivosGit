@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 modificado
 
 texto ingresado al archivo 1
@@ -5,3 +6,6 @@ texto ingresado al archivo 1
 parrafo archivo 1
 
 texto agregado al parrafo
+=======
+borrado
+>>>>>>> modificacionArchivos
