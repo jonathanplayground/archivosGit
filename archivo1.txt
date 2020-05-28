@@ -11,3 +11,4 @@ borrado
 >>>>>>> modificacionArchivos
 
 ahora ingresamos texto en otra rama
+seguiremos ingresando palabras
