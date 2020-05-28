@@ -12,3 +12,5 @@ borrado
 texto para seguir en la rama master
 
 editanto el nuevo desarrolo.
+
+este escrito es una prueba
